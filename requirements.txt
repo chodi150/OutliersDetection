@@ -166,7 +166,7 @@ transformers==2.8.0
 typed-ast==1.4.0
 ubuntu-drivers-common==0.0.0
 ufw==0.36
-urllib3==1.22
+urllib3==1.24.2
 wcwidth==0.1.7
 webencodings==0.5.1
 widgetsnbextension==3.5.1
