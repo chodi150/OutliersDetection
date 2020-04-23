@@ -38,4 +38,4 @@ def show_tsne(data_frame, outliers_indices, entity_names):
         )))
 
     fig.update_layout(title="t-SNE")
-    fig.show("png")
+    fig.show()
