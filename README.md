@@ -1,6 +1,6 @@
 # OutliersDetection
 
-#Problem Description
+# Problem Description
 A dataset OD_dataset.csv with the aggregated transactional data for merchants (AKA entities) belonging to the "Fast Food Restaurants" category is given.
 The aggregation is done by grouping transactional data by the [entity_id] column. You can make an assumption that there are approx. 1% of outliers. This
 dataset contains 33 columns.
